@@ -16,7 +16,7 @@ use Data::URIEncode;
 
 use constant VIANETT_URL => 'http://smsc.vianett.no/ActiveServer/MT/';
 
-our $VERSION = q(0.01);
+our $VERSION = q(0.02);
 
 sub _validate {
   shift;

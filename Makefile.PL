@@ -8,7 +8,8 @@ WriteMakefile(
       "LWP"             => 0,
       "Scalar::Util"    => 0,
       "XML::Simple"     => 0,
-      "Data::URIEncode" => 0
+      "Data::URIEncode" => 0,
+      "Test::Deep"      => 0
     }, 
     AUTHOR            => 'Venkatakrishnan Ganesh <venkatg@cpan.org>' 
 );
